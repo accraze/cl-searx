@@ -1,4 +1,3 @@
 #+TITLE: cl-searx
 
 Searx metasearch client written in Common Lisp.
-WORK IN PROGRESS
